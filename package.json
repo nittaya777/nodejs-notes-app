@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-notes-app",
+  "version": "1.0.0",
+  "description": "Notes App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nittaya777/nodejs-notes-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nittaya777/nodejs-notes-app/issues"
+  },
+  "homepage": "https://github.com/nittaya777/nodejs-notes-app#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.6.2"
+  }
+}
